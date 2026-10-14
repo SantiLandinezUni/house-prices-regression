@@ -1,0 +1,15 @@
+name: ML_House_Prices
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - xgboost
+  - seaborn
+  - numpy
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - pandas
+  - pytorch
+prefix: /opt/anaconda3/envs/ML_House_Prices
